@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(41, 159, 209);
+    color: azure;
+}
+
+p {
+    color: rgb(0, 0, 0);
+}
+
+h1  {
+    font-family: monospace
+        
+}
